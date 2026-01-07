@@ -169,7 +169,7 @@ Then navigate to `http://localhost:8000`
   <img src="https://github.com/user-attachments/assets/30a0c251-4efa-43e6-bc64-7979595b4586" width="200" alt="Example 9"/>
   <img src="https://github.com/user-attachments/assets/d5aaa8d6-bd38-454e-a560-6cea879e86c1" width="200" alt="Example 10"/>
   <img src="https://github.com/user-attachments/assets/bca3d9c9-6951-4a4a-898a-9871b6cb6b6c" width="200" alt="Example 11"/>
-  <img src="https://github.com/user-attachments/assets/75369738-2ac5-45de-8320-32ae2762dfdb" width="200" height="200" alt="Example 12"/>
+  <img src="https://github.com/user-attachments/assets/75369738-2ac5-45de-8320-32ae2762dfdb" width="200" alt="Example 12"/>
 
 </div>
 
