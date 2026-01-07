@@ -151,6 +151,20 @@ Then navigate to `http://localhost:8000`
 - SAM2 model by Meta AI: https://github.com/facebookresearch/segment-anything-2
 - UI design inspired by modern AI tools
 
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809146274" src="https://github.com/user-attachments/assets/959a16fc-4828-460d-ba86-ff8263ece7cf" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809979958" src="https://github.com/user-attachments/assets/bca3d9c9-6951-4a4a-898a-9871b6cb6b6c" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809938598" src="https://github.com/user-attachments/assets/d5aaa8d6-bd38-454e-a560-6cea879e86c1" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809828649" src="https://github.com/user-attachments/assets/30a0c251-4efa-43e6-bc64-7979595b4586" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809784920" src="https://github.com/user-attachments/assets/9e5a9a06-fa31-4c46-8ffe-0e1dd88986fc" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809734286" src="https://github.com/user-attachments/assets/a89e1f58-6778-4a2e-bf8e-01724f35c3b8" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809684205" src="https://github.com/user-attachments/assets/89b78112-b930-4fc4-9008-60b53ed5b573" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809584709" src="https://github.com/user-attachments/assets/2872f1d3-ec2d-4d68-8f21-1b2b68d714a8" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809553284" src="https://github.com/user-attachments/assets/ee323b9f-8f22-43a0-abff-db3ab1b7783d" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809356035" src="https://github.com/user-attachments/assets/f74c323d-72ad-4953-b74f-3a7ec6e5d801" />
+<img width="3000" height="4000" alt="lego_no_background_3000x4000_1767809260654" src="https://github.com/user-attachments/assets/14cf840e-4cca-499a-843f-84d127763c69" />
+
+
+
 ## License
 
-This project is provided as-is for educational and personal use. SAM2 model has its own license - please refer to Meta's repository for details.
+This project is provided as-is for any use. SAM2 model has its own license - please refer to Meta's repository for details.
