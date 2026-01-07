@@ -152,23 +152,25 @@ Then navigate to `http://localhost:8000`
 - UI design inspired by modern AI tools
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/959a16fc-4828-460d-ba86-ff8263ece7cf" width="200" alt="Ukázka 1"/>
-  <img src="https://github.com/user-attachments/assets/14cf840e-4cca-499a-843f-84d127763c69" width="200" alt="Ukázka 2"/>
-  <img src="https://github.com/user-attachments/assets/f74c323d-72ad-4953-b74f-3a7ec6e5d801" width="200" alt="Ukázka 3"/>
-  <img src="https://github.com/user-attachments/assets/ee323b9f-8f22-43a0-abff-db3ab1b7783d" width="200" alt="Ukázka 4"/>
+  <img src="https://github.com/user-attachments/assets/959a16fc-4828-460d-ba86-ff8263ece7cf" width="200" alt="Example 1"/>
+  <img src="https://github.com/user-attachments/assets/14cf840e-4cca-499a-843f-84d127763c69" width="200" alt="Example 2"/>
+  <img src="https://github.com/user-attachments/assets/f74c323d-72ad-4953-b74f-3a7ec6e5d801" width="200" alt="Example 3"/>
+  <img src="https://github.com/user-attachments/assets/ee323b9f-8f22-43a0-abff-db3ab1b7783d" width="200" alt="Example 4"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2872f1d3-ec2d-4d68-8f21-1b2b68d714a8" width="200" alt="Ukázka 5"/>
-  <img src="https://github.com/user-attachments/assets/89b78112-b930-4fc4-9008-60b53ed5b573" width="200" alt="Ukázka 6"/>
-  <img src="https://github.com/user-attachments/assets/a89e1f58-6778-4a2e-bf8e-01724f35c3b8" width="200" alt="Ukázka 7"/>
-  <img src="https://github.com/user-attachments/assets/9e5a9a06-fa31-4c46-8ffe-0e1dd88986fc" width="200" alt="Ukázka 8"/>
+  <img src="https://github.com/user-attachments/assets/2872f1d3-ec2d-4d68-8f21-1b2b68d714a8" width="200" alt="Example 5"/>
+  <img src="https://github.com/user-attachments/assets/89b78112-b930-4fc4-9008-60b53ed5b573" width="200" alt="Example 6"/>
+  <img src="https://github.com/user-attachments/assets/a89e1f58-6778-4a2e-bf8e-01724f35c3b8" width="200" alt="Example 7"/>
+  <img src="https://github.com/user-attachments/assets/9e5a9a06-fa31-4c46-8ffe-0e1dd88986fc" width="200" alt="Example 8"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/30a0c251-4efa-43e6-bc64-7979595b4586" width="200" alt="Ukázka 9"/>
-  <img src="https://github.com/user-attachments/assets/d5aaa8d6-bd38-454e-a560-6cea879e86c1" width="200" alt="Ukázka 10"/>
-  <img src="https://github.com/user-attachments/assets/bca3d9c9-6951-4a4a-898a-9871b6cb6b6c" width="200" alt="Ukázka 11"/>
+  <img src="https://github.com/user-attachments/assets/30a0c251-4efa-43e6-bc64-7979595b4586" width="200" alt="Example 9"/>
+  <img src="https://github.com/user-attachments/assets/d5aaa8d6-bd38-454e-a560-6cea879e86c1" width="200" alt="Example 10"/>
+  <img src="https://github.com/user-attachments/assets/bca3d9c9-6951-4a4a-898a-9871b6cb6b6c" width="200" alt="Example 11"/>
+  <img src="https://github.com/user-attachments/assets/75369738-2ac5-45de-8320-32ae2762dfdb" width="200" height="200" alt="Example 12"/>
+
 </div>
 
 ## License
